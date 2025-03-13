@@ -1,0 +1,7 @@
+{
+    "name": "Security scanner for Infrastructure as Code",
+    "creator": "albalashov",
+    "description": "Detect vulnerabilities in your infrastructure as code files and surface the issues in GitHub code scanning.",
+    "iconName": "octicon smiley",
+    "categories": ["Code Scanning"]
+}
